@@ -22,3 +22,6 @@ My productions are published under GNU GPL v3 (see License.txt).
 
 Zak Kemble
 contact@zakkemble.co.uk
+
+Link to stl for case: 
+https://kekse23.de/2014.12.05/309/ein-gehaeuse-fuer-die-nwatch/
